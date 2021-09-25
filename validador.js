@@ -1,7 +1,6 @@
 
 
 function isValidCPF(cpf) { 
-	//cpf = cpf.replace(/\.|-/g, "");
 	console.log(cpf.length);
 
 
